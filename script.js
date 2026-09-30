@@ -18,7 +18,12 @@
       de: {
         text: "Willkommen auf der multilingualen Website! Sie können jede Sprache auswählen, indem Sie die Schaltflächen oben verwenden!",
         label: "German"
+      },
+      zh: {
+        text: "欢迎来到多语言网站！您可以使用上面的按钮选择任何语言！",
+        label: "Hausa"
       }
+      
 
 
     };
